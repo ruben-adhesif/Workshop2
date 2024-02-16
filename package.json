@@ -1,0 +1,11 @@
+{
+  "name": "td2_stockage",
+  "version": "1.0.0",
+  "description": "- Understand the pros and cons of the BitTorrent, IPFS, Filecoin, and Arweave protocols.\r - Be able to deploy files on these protocols and understand how the files and data are saved.\r - Be able to create your first decentralized website/application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
