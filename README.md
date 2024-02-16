@@ -1,3 +1,6 @@
+## Deposit
+https://docs.google.com/spreadsheets/d/13EYQlbR21EInNFw8eeWh_979qMzQ3_VGR898EAWdkeU/edit?usp=sharing
+
 ## Objectives
 - Understand the pros and cons of the BitTorrent, IPFS, Filecoin, and Arweave protocols.
 - Be able to deploy files on these protocols and understand how the files and data are saved.
@@ -50,7 +53,7 @@ torrent info <torrent file>
 ```
 
 ### Questions
-- Q1 - Create a torrent containing [this image]().
+- Q1 - Create a torrent containing [this image](https://cdn.futura-sciences.com/sources/images/Chaton.jpeg).
 - Q2 - Now copy the image to a new directory named `partition1` and create a torrent of this folder. What do you observe?
 - Q3 - Copy the `partition1` folder and then generate the associated torrent. What do you observe?
 
